@@ -1,0 +1,5 @@
+{
+  "name": "Study Assistant",
+  "description": "An intelligent personal learning platform that acts as a private tutor. It generates study content from user-provided materials or its own knowledge, and includes interactive tools and quizzes to enhance the learning experience.",
+  "requestFramePermissions": []
+}
